@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @palo-alo
+- 👀 I’m interested in c++ phyton HTML css
+- 🌱 I’m currently learning phytoon
+- 💞️ I’m looking to collaborate on web develop.
+- 📫 mh@palo-alo.dk
